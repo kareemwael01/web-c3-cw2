@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Cairo:wght@200&family=Lalezar&family=League+Gothic&family=Noto+Serif+Display:wght@100&display=swap');
+    
+h1{ 
+   font-size: large;
+   font-weight: 200;
+   font-family: 'Lalezar', cursive;
+
+
+}
+
+div{
+    background-color: #001219;
+    width: 200px;
+    height: 500px;
+}
